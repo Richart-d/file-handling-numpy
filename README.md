@@ -52,26 +52,29 @@ The goal is to:
 ```bash
 git clone https://github.com/Richart-d/file-handling-numpy.git
 cd loan-data-numpy-file-handling
+```
 
 
+## ✅ Key Features
+- Cleanly opens and closes the CSV file using with open()
 
-✅ Key Features
-Cleanly opens and closes the CSV file using with open()
+- Reads only relevant numeric columns (loan amounts)
 
-Reads only relevant numeric columns (loan amounts)
+- Handles comma-separated values with proper delimiter
 
-Handles comma-separated values with proper delimiter
+- Prints descriptive stats directly to the terminal
 
-Prints descriptive stats directly to the terminal
 
-📌 Future Improvements
-Add data cleaning logic for missing or non-numeric entries
+## 📌 Future Improvements
+- Add data cleaning logic for missing or non-numeric entries
 
-Visualize distribution with Matplotlib or Seaborn
+- Visualize distribution with Matplotlib or Seaborn
 
-Support analysis by region or gender using grouped operations
+- Support analysis by region or gender using grouped operations
 
-👨‍💻 Author
-Richard – Aspiring Data Scientist
+
+## 👨‍💻 Author
+Richard – Data Scientist 
+
 Created as part of hands-on coursework during a Data Science Bootcamp.
 
